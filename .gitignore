@@ -1,0 +1,4 @@
+#ignore
+venv/
+my_deployment.yml
+my_service.yml
